@@ -1,5 +1,5 @@
 ---
-title: "Coeur et Classique"
+title: "Ubuntu Core et Classique"
 language: french
 ---
 
