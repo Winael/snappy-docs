@@ -8,7 +8,7 @@ language: french
 ## What is Ubuntu Core?
 -->
 
-Qu'est-ce qu'Ubuntu Core
+## Qu'est-ce qu'Ubuntu Core ?
 
 <!-- lang: EN
 Ubuntu Core is a lightweight, transactionally updated OS for devices targeted at the Internet of Things (IoT) space. It consists of a minimal `rootfs` and key services such as network. All other user features are added by installing additional snaps into a snapd system or device. In simple terms, it can be thought of as the smallest version of Ubuntu needed to support a system.
